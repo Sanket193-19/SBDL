@@ -18,3 +18,4 @@ if __name__ == '__main__':
     logger.info(" creating Spark Session")
 
     logger.info("Finished creating Spark Session")
+    loggor.info("new file")
